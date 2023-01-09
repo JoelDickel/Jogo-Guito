@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 1bced0d396f34f74780df189cf0195f5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: CARRINHO
+    100010: CAVEIRA
+    100012: caveira_low
+    100014: Cone001
+    100016: CRISTAIS
+    100018: crystal low
+    100020: crystal low001
+    100022: crystal low002
+    100024: Cylinder001
+    100026: Cylinder003
+    100028: Cylinder004
+    100030: Cylinder005
+    100032: Cylinder006
+    100034: LUMINARIA
+    100036: //RootNode
+    100038: OBSTACULO
+    100040: pedra
+    100042: Plane001
+    100044: Plane002
+    100046: Plane003
+    100048: SUOR
+    100050: Torus001
+    100052: caveira
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: CARRINHO
+    400010: CAVEIRA
+    400012: caveira_low
+    400014: Cone001
+    400016: CRISTAIS
+    400018: crystal low
+    400020: crystal low001
+    400022: crystal low002
+    400024: Cylinder001
+    400026: Cylinder003
+    400028: Cylinder004
+    400030: Cylinder005
+    400032: Cylinder006
+    400034: LUMINARIA
+    400036: //RootNode
+    400038: OBSTACULO
+    400040: pedra
+    400042: Plane001
+    400044: Plane002
+    400046: Plane003
+    400048: SUOR
+    400050: Torus001
+    400052: caveira
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: caveira_low
+    2300010: Cone001
+    2300012: crystal low
+    2300014: crystal low001
+    2300016: crystal low002
+    2300018: Cylinder001
+    2300020: Cylinder003
+    2300022: Cylinder004
+    2300024: Cylinder005
+    2300026: Cylinder006
+    2300028: OBSTACULO
+    2300030: pedra
+    2300032: Plane001
+    2300034: Plane002
+    2300036: Plane003
+    2300038: SUOR
+    2300040: Torus001
+    2300042: caveira
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: caveira_low
+    3300010: Cone001
+    3300012: crystal low
+    3300014: crystal low001
+    3300016: crystal low002
+    3300018: Cylinder001
+    3300020: Cylinder003
+    3300022: Cylinder004
+    3300024: Cylinder005
+    3300026: Cylinder006
+    3300028: OBSTACULO
+    3300030: pedra
+    3300032: Plane001
+    3300034: Plane002
+    3300036: Plane003
+    3300038: SUOR
+    3300040: Torus001
+    3300042: caveira
+    4300000: OBSTACULO
+    4300002: SUOR
+    4300004: Plane003
+    4300006: Cone001
+    4300008: Plane002
+    4300010: caveira_low
+    4300012: Box004
+    4300014: crystal low
+    4300016: crystal low002
+    4300018: crystal low001
+    4300020: pedra
+    4300022: Box002
+    4300024: Torus001
+    4300026: Box001
+    4300028: Box003
+    4300030: Cylinder006
+    4300032: Cylinder001
+    4300034: Cylinder003
+    4300036: Cylinder005
+    4300038: Cylinder004
+    4300040: Plane001
+    4300042: caveira
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 050eaf4dd647fc2419edd5119a0998c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Default
+    second: {fileID: 2100000, guid: fc93e5de1f1f79f49bd12edc8ce372b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10 - Default
+    second: {fileID: 2100000, guid: 9e4689cd63ade644c8f92e567eedb30b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12 - Default
+    second: {fileID: 2100000, guid: 5f43cd63c4b1570468f8bc03e6167745, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Default
+    second: {fileID: 2100000, guid: aaf0a882ae78f144299bec8aadc20232, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16 - Default
+    second: {fileID: 2100000, guid: 85a3b9165befa9b4187fce9a6c4183ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17 - Default
+    second: {fileID: 2100000, guid: 3fa20260756db0f4aa6e55a5e95fc4b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18 - Default
+    second: {fileID: 2100000, guid: 7eb4737bbe286214398040800c9891c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: af867af763017ef489c69f3dbb3c7abd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 271a6271bf1d0004182defea0199c085, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #28'
+    second: {fileID: 2100000, guid: 99fff56dbb32ddc4491b89de2e78802c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #29'
+    second: {fileID: 2100000, guid: abc3ff9856edc52409ad4b5c8fbf82f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat
+    second: {fileID: 2100000, guid: 04e938d74fdbb2e46b51f4c449fc1f3c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CARRINHO
+        weight: 1
+      - path: CARRINHO/Box003
+        weight: 1
+      - path: CARRINHO/Cylinder001
+        weight: 1
+      - path: CARRINHO/Cylinder003
+        weight: 1
+      - path: CARRINHO/Cylinder004
+        weight: 1
+      - path: CARRINHO/Cylinder005
+        weight: 1
+      - path: CARRINHO/Cylinder006
+        weight: 1
+      - path: CARRINHO/Plane001
+        weight: 1
+      - path: CAVEIRA
+        weight: 1
+      - path: CAVEIRA/Box004
+        weight: 1
+      - path: CAVEIRA/caveira_low
+        weight: 1
+      - path: CAVEIRA/Cone001
+        weight: 1
+      - path: CAVEIRA/Plane002
+        weight: 1
+      - path: CAVEIRA/Plane003
+        weight: 1
+      - path: CRISTAIS
+        weight: 1
+      - path: CRISTAIS/crystal low
+        weight: 1
+      - path: CRISTAIS/crystal low001
+        weight: 1
+      - path: CRISTAIS/crystal low002
+        weight: 1
+      - path: CRISTAIS/pedra
+        weight: 1
+      - path: LUMINARIA
+        weight: 1
+      - path: LUMINARIA/Box001
+        weight: 1
+      - path: LUMINARIA/Box002
+        weight: 1
+      - path: LUMINARIA/Torus001
+        weight: 1
+      - path: OBSTACULO
+        weight: 1
+      - path: SUOR
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
